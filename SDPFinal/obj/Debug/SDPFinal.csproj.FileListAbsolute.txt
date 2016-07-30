@@ -1,0 +1,14 @@
+D:\CSE\MY_projects\SDPFinal\SDPFinal\bin\SDPFinal.dll.config
+D:\CSE\MY_projects\SDPFinal\SDPFinal\bin\SDPFinal.dll
+D:\CSE\MY_projects\SDPFinal\SDPFinal\bin\SDPFinal.pdb
+D:\CSE\MY_projects\SDPFinal\SDPFinal\obj\Debug\SDPFinal.csprojResolveAssemblyReference.cache
+D:\CSE\MY_projects\SDPFinal\SDPFinal\obj\Debug\SDPFinal.dll.licenses
+D:\CSE\MY_projects\SDPFinal\SDPFinal\obj\Debug\SDPFinal.dll
+D:\CSE\MY_projects\SDPFinal\SDPFinal\obj\Debug\SDPFinal.pdb
+D:\SDPFinal\SDPFinal\bin\SDPFinal.dll.config
+D:\SDPFinal\SDPFinal\bin\SDPFinal.dll
+D:\SDPFinal\SDPFinal\bin\SDPFinal.pdb
+D:\SDPFinal\SDPFinal\obj\Debug\SDPFinal.csprojResolveAssemblyReference.cache
+D:\SDPFinal\SDPFinal\obj\Debug\SDPFinal.dll.licenses
+D:\SDPFinal\SDPFinal\obj\Debug\SDPFinal.dll
+D:\SDPFinal\SDPFinal\obj\Debug\SDPFinal.pdb
